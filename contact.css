@@ -1,0 +1,22 @@
+body{
+    background-image:radial-gradient(circle at center, #5fb8df, #354f5a) ;
+}
+header{
+    text-align: center;
+}
+h1{
+    color: aqua;
+    font-size: 70px;
+}
+footer{
+    text-align:right;
+}
+ul{
+    list-style: none;
+}
+a{
+    color: rgb(108, 197, 163);
+}
+a:link:hover{
+    color: rgb(147, 180, 114);
+}
